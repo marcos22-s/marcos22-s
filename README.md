@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Marcos%20Firmino%20Rodrigues&fontSize=35&fontColor=fff&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Marcos%20Firmino%20Rodrigues&fontSize=35&fontColor=fff&animation=fadeIn"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Software+em+Formação;Estudante+de+Desenvolvimento+Multiplataforma;Focado+em+Backend;Sempre+aprendendo+novas+tecnologias"/>
@@ -71,17 +71,7 @@ Atualmente estou focado em aprender e evoluir minhas habilidades em programaçã
 
 </p>
 
----
 
-<h2 align="center">🏆 Conquistas no GitHub</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=marcos22-s&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
 
 <h2 align="center">🐍 Contribuições</h2>
 
@@ -126,7 +116,7 @@ Novos projetos serão adicionados em breve.
 ---
 
 <p align="center">
-⭐ Sempre evoluindo como desenvolvedor e aprendendo novas tecnologias.
-</p>
+🧠 Sempre evoluindo como desenvolvedor e aprendendo novas tecnologias.
+</p>>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
