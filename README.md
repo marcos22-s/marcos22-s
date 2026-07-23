@@ -155,14 +155,26 @@ Gosto de entender como os sistemas funcionam "debaixo do capô" — desde a cheg
 
 ---
 
-## 🎮 Easter Egg / Hora do Café
+## 🚀 Por que me contratar? (Recruiter Quick Glance)
 
-### 🐍 Snake Game — Minhas Contribuições em Ação!
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcos22-s/marcos22-s/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcos22-s/marcos22-s/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Game - Contribuições do GitHub" src="https://raw.githubusercontent.com/marcos22-s/marcos22-s/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+
+| 🎯 Foco Principal | 🛡️ Diferencial | ⚡ Mindset |
+| :---: | :---: | :---: |
+| **APIs RESTful & Arquitetura Back-end** | **Visão de Segurança (SecOps & Redes)** | **Resolução Ágil de Problemas** |
+
+<br/>
+
+> 💬 *"Desenvolvo sistemas pensando na performance e escalabilidade do código, sem nunca abrir mão da segurança dos dados e da infraestrutura."*
+
+<br/>
+
+[![LinkedIn Badge](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-rodrigues-14391426b/)
+[![Gmail Badge](https://img.shields.io/badge/Enviar_E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosrodrigues.code@gmail.com)
+
+</div>
+
+<br/>
 
 ---
 
@@ -182,12 +194,3 @@ Gosto de entender como os sistemas funcionam "debaixo do capô" — desde a cheg
  \___________________________________________________________/
        \
         \   🖥️  [SERVER_NODE_01: ACTIVE]
----
-
-<div align="center">
-
-  *(Evoluindo códigos, protegendo dados e construindo o futuro, uma requisição por vez.)*
-  <br/><br/>
-  💡 *Sinta-se à vontade para me mandar uma mensagem no LinkedIn ou e-mail para trocar ideias sobre projetos e tecnologia!*
-
-</div>
