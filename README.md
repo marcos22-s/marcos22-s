@@ -84,7 +84,6 @@ Especialização em Cybersecurity
 | `2027` | Primeira oportunidade efetiva em Backend Development | 🎯 Objetivo |
 | `2027` | Certificação de nível intermediário em Cybersecurity | 🎯 Objetivo |
 
-> 💡 Preencha `2028` com suas estimativas reais — deixei em aberto para não inventar prazos que só você conhece.
 
 ## 📚 Atualmente Estudando
 
