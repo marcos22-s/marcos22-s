@@ -165,7 +165,6 @@ jobs:
 
 ### 🤝 Vamos Construir Algo Juntos
 
-Aberto a oportunidades de estágio e efetivação em **Desenvolvimento Back-end**.
 
 <a href="https://linkedin.com/in/marcos-rodrigues-14391426b/"><img src="https://img.shields.io/badge/Conversar%20no%20LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
