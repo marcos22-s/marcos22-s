@@ -139,14 +139,30 @@ Curto prazo: minha primeira oportunidade efetiva em **Desenvolvimento Back-end**
 
 <div align="center">
 
-## 🤝 Vamos Construir Algo Juntos
+## 🤝 Vamos Construir Algo Juntos?
 
+<br/>
 
-<a href="https://linkedin.com/in/marcos-rodrigues-14391426b/"><img src="https://img.shields.io/badge/Conversar%20no%20LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:marcosrodrigues.code@gmail.com"><img src="https://img.shields.io/badge/-1e293b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/marcos-rodrigues-14391426b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:marcosrodrigues.code@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="E-mail" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/5519971303777" target="_blank">
+  <img src="https://skillicons.dev/icons?i=whatsapp" width="48" height="48" alt="WhatsApp" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/marcos22-s" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:7C3AED&height=100&section=footer" width="100%"/>
+<p align="center">
+  🌐 <i>"O aprendizado é contínuo e a evolução é constante."</i>
+</p>
 
 </div>
