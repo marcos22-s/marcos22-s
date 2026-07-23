@@ -105,32 +105,32 @@ Gosto de entender como os sistemas funcionam "debaixo do capô" — desde a cheg
 ## 💡 FAQ do Recrutador (Clique para expandir)
 
 <details>
-<summary><b>🔍 O que me diferencia como Desenvolvedor Back-end?</b></summary>
+<summary><b>🔍 O que me diferencia em Cibersegurança & Infraestrutura?</b></summary>
 <br/>
-Não entrego apenas código que roda; entrego arquiteturas pensadas desde o início sob a ótica de <b>segurança (SecOps)</b>, otimização de consultas a banco de dados e padrões de projeto robustos.
+Combino o conhecimento prático em <b>suporte técnico e gestão de perímetros (Fortinet, M365/Entra ID)</b> com a capacidade de entender a lógica de código e automação, focando em segurança preventiva, mitigação de riscos e resposta a incidentes.
 </details>
 
 <details>
-<summary><b>🛠️ Quais problemas de negócio consigo resolver hoje?</b></summary>
+<summary><b>🛠️ Quais problemas de segurança e redes consigo resolver hoje?</b></summary>
 <br/>
-Construção e integração de <b>APIs RESTful</b>, automação de rotinas, gerenciamento de identidades/acessos (Microsoft 365 / Entra ID) e análise/mitigação de riscos em redes e servidores.
+Gestão e hardening de acessos/identidades, configuração de regras de firewall, análise de vulnerabilidades, monitoramento de ativos e automação de tarefas de infraestrutura.
 </details>
 
 <details>
 <summary><b>🚀 Qual meu momento profissional atual?</b></summary>
 <br/>
-Em constante evolução acadêmica (FATEC) e prática (Labstar Tecnologia), focado em subir a régua técnica para atuar como <b>Engenheiro Back-end / DevSecOps</b>.
+Em constante evolução acadêmica (FATEC) e atuação prática (Labstar Tecnologia), consolidando minha base para atuar como <b>Especialista em Cibersegurança / Analista de SecOps</b>.
 </details>
 
 <br/>
 
 ---
 
-## ⚙️ Workflow & Filosofia de Engenharia
+## 🛡️ Workflow & Filosofia de Cibersegurança
 
-| 01. Arquitetura | 02. Desenvolvimento | 03. Segurança & Deploys |
+| 01. Prevenção & Perímetro | 02. Identidade & Acessos | 03. Monitoramento & Resposta |
 | :--- | :--- | :--- |
-| • Modelagem relacional/NoSQL<br/>• Design de endpoints REST<br/>• Definição de escopo e fluxos | • Código limpo e desacoplado<br/>• Autenticação (JWT, OAuth2)<br/>• Tratamento rigoroso de exceções | • Análise de vulnerabilidades<br/>• Regras de perímetro (Fortinet)<br/>• Monitoramento contínuo |
+| • Regras de firewall (Fortinet)<br/>• Análise de superfícies de ataque<br/>• Hardening de redes e servidores | • Gestão de identidades (Entra ID)<br/>• Políticas de Zero Trust e MFA<br/>• Controle de privilégios (RBAC) | • Análise de logs e incidentes<br/>• Monitoramento de ativos M365<br/>• Automação de mitigação de riscos |
 
 <br/>
 
@@ -153,6 +153,6 @@ Em constante evolução acadêmica (FATEC) e prática (Labstar Tecnologia), foca
   </a>
 
   <br/><br/>
-  *(Evoluindo códigos, protegendo dados e construindo o futuro, uma requisição por vez.)*
+  *(Protegendo perímetros, otimizando infraestruturas e garantindo a integridade dos dados.)*
 
 </div>
