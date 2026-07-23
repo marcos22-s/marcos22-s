@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+em+Forma%C3%A7%C3%A3o;Python+%E2%80%A2+Django+%E2%80%A2+Java+%E2%80%A2+APIs+REST;Rumo+%C3%A0+Especializa%C3%A7%C3%A3o+em+Ciberseguran%C3%A7a" alt="Typing SVG"/>
 
-<br><br>
 
 <a href="https://github.com/marcos22-s" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="42"/>
@@ -22,13 +21,11 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
 </a>
 
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=marcos22-s&label=Profile%20Views&color=7C3AED&style=flat-square"/>
 
 </div>
 
-<br/>
 
 ## 👋 Quem Sou
 
