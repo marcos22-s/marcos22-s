@@ -102,67 +102,57 @@ Gosto de entender como os sistemas funcionam "debaixo do capô" — desde a cheg
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 💡 FAQ do Recrutador (Clique para expandir)
+
+<details>
+<summary><b>🔍 O que me diferencia como Desenvolvedor Back-end?</b></summary>
+<br/>
+Não entrego apenas código que roda; entrego arquiteturas pensadas desde o início sob a ótica de <b>segurança (SecOps)</b>, otimização de consultas a banco de dados e padrões de projeto robustos.
+</details>
+
+<details>
+<summary><b>🛠️ Quais problemas de negócio consigo resolver hoje?</b></summary>
+<br/>
+Construção e integração de <b>APIs RESTful</b>, automação de rotinas, gerenciamento de identidades/acessos (Microsoft 365 / Entra ID) e análise/mitigação de riscos em redes e servidores.
+</details>
+
+<details>
+<summary><b>🚀 Qual meu momento profissional atual?</b></summary>
+<br/>
+Em constante evolução acadêmica (FATEC) e prática (Labstar Tecnologia), focado em subir a régua técnica para atuar como <b>Engenheiro Back-end / DevSecOps</b>.
+</details>
+
+<br/>
+
+---
+
+## ⚙️ Workflow & Filosofia de Engenharia
+
+| 01. Arquitetura | 02. Desenvolvimento | 03. Segurança & Deploys |
+| :--- | :--- | :--- |
+| • Modelagem relacional/NoSQL<br/>• Design de endpoints REST<br/>• Definição de escopo e fluxos | • Código limpo e desacoplado<br/>• Autenticação (JWT, OAuth2)<br/>• Tratamento rigoroso de exceções | • Análise de vulnerabilidades<br/>• Regras de perímetro (Fortinet)<br/>• Monitoramento contínuo |
+
+<br/>
+
+---
 
 <div align="center">
-  <br/>
-  
-  <a href="https://github.com/marcos22-s">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos22-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+
+  ### 📥 Vamos conversar sobre novas oportunidades?
+
+  <a href="https://linkedin.com/in/marcos-rodrigues-14391426b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="https://github.com/marcos22-s">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos22-s&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Linguagens Mais Usadas" />
+  &nbsp;
+  <a href="mailto:marcosrodrigues.code@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail_Direto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/5519971303777" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 
   <br/><br/>
-
-  <a href="https://github.com/marcos22-s">
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos22-s&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
+  *(Evoluindo códigos, protegendo dados e construindo o futuro, uma requisição por vez.)*
 
 </div>
-
-<br/>
-
----
----
-
-
----
-
----
-
-## 🚀 Por que me contratar? (Recruiter Quick Glance)
-
-<div align="center">
-
-| 🎯 Foco Principal | 🛡️ Diferencial | ⚡ Mindset |
-| :---: | :---: | :---: |
-| **APIs RESTful & Arquitetura Back-end** | **Visão de Segurança (SecOps & Redes)** | **Resolução Ágil de Problemas** |
-
-<br/>
-
-> 💬 *"Desenvolvo sistemas pensando na performance e escalabilidade do código, sem nunca abrir mão da segurança dos dados e da infraestrutura."*
-
-<br/>
-
-[![LinkedIn Badge](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-rodrigues-14391426b/)
-[![Gmail Badge](https://img.shields.io/badge/Enviar_E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosrodrigues.code@gmail.com)
-
-</div>
-
-<br/>
-
----
-
-## ⚡ Quick Pitch / Visão para Recrutadores
-
-```json
-{
-  "candidate": "Marcos Firmino Rodrigues",
-  "position": "Desenvolvedor Back-end & SecOps",
-  "hard_skills": ["Python / Django", "Java", "C#", "Node.js", "APIs RESTful", "Segurança Fortinet & M365"],
-  "soft_skills": ["Resolução de Problemas", "Autodidata", "Trabalho em Equipe", "Comunicação Técnica"],
-  "location": "São Paulo, Brasil (Remoto / Híbrido)"
-}
