@@ -164,20 +164,24 @@ Gosto de entender como os sistemas funcionam "debaixo do capô" — desde a cheg
   <img alt="Snake Game - Contribuições do GitHub" src="https://raw.githubusercontent.com/marcos22-s/marcos22-s/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/><br/>
+---
 
-### 🕹️ Desafie o Recrutador: Jogo da Velha!
+## 💻 System Status & Terminal
 
-> Clique num quadrado abaixo para jogar contra o robô! 🤖
-
-||||
-|:-:|:-:|:-:|
-| [ㅤ](https://github.com/marcos22-s/marcos22-s) | [ㅤ](https://github.com/marcos22-s/marcos22-s) | [ㅤ](https://github.com/marcos22-s/marcos22-s) |
-| [ㅤ](https://github.com/marcos22-s/marcos22-s) | [❌](https://github.com/marcos22-s/marcos22-s) | [ㅤ](https://github.com/marcos22-s/marcos22-s) |
-| [ㅤ](https://github.com/marcos22-s/marcos22-s) | [ㅤ](https://github.com/marcos22-s/marcos22-s) | [⭕](https://github.com/marcos22-s/marcos22-s) |
-
-<br/>
-
+```bash
+  ___________________________________________________________
+ /                                                           \
+|  [root@marcos-sec-node ~]# status_check                     |
+|                                                             |
+|  > OS          : Linux x86_64                               |
+|  > Role        : Back-end Dev & SecOps Specialist           |
+|  > Systems     : ONLINE [100% Uptime]                       |
+|  > Security    : ENCRYPTED & PROTECTED                      |
+|  > Firewalls   : ACTIVE (Fortinet Rule Set)                 |
+|  > Status      : Ready for new deployments & challenges!    |
+ \___________________________________________________________/
+       \
+        \   🖥️  [SERVER_NODE_01: ACTIVE]
 ---
 
 <div align="center">
