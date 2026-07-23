@@ -126,6 +126,32 @@ Gosto de entender como os sistemas funcionam "debaixo do capô" — desde a cheg
 <br/>
 
 ---
+---
+
+## 🎮 Easter Egg / Hora do Café
+
+### 🐍 Snake Game — Minhas Contribuições em Ação!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcos22-s/marcos22-s/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcos22-s/marcos22-s/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Game - Contribuições do GitHub" src="https://raw.githubusercontent.com/marcos22-s/marcos22-s/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
+### 🕹️ Desafie o Recrutador: Jogo da Velha!
+
+> Clique num quadrado abaixo para jogar contra o robô! 🤖
+
+||||
+|:-:|:-:|:-:|
+| [ㅤ](https://github.com/marcos22-s/marcos22-s) | [ㅤ](https://github.com/marcos22-s/marcos22-s) | [ㅤ](https://github.com/marcos22-s/marcos22-s) |
+| [ㅤ](https://github.com/marcos22-s/marcos22-s) | [❌](https://github.com/marcos22-s/marcos22-s) | [ㅤ](https://github.com/marcos22-s/marcos22-s) |
+| [ㅤ](https://github.com/marcos22-s/marcos22-s) | [ㅤ](https://github.com/marcos22-s/marcos22-s) | [⭕](https://github.com/marcos22-s/marcos22-s) |
+
+<br/>
+
+---
 
 <div align="center">
 
