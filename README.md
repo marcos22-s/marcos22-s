@@ -186,6 +186,5 @@ Gosto de entender como os sistemas funcionam "debaixo do capô" — desde a cheg
   "position": "Desenvolvedor Back-end & SecOps",
   "hard_skills": ["Python / Django", "Java", "C#", "Node.js", "APIs RESTful", "Segurança Fortinet & M365"],
   "soft_skills": ["Resolução de Problemas", "Autodidata", "Trabalho em Equipe", "Comunicação Técnica"],
-  "availability": "Aberto a novas oportunidades e desafios técnicos",
   "location": "São Paulo, Brasil (Remoto / Híbrido)"
 }
