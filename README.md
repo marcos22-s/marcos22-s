@@ -178,19 +178,14 @@ Gosto de entender como os sistemas funcionam "debaixo do capô" — desde a cheg
 
 ---
 
-## 💻 System Status & Terminal
+## ⚡ Quick Pitch / Visão para Recrutadores
 
-```bash
-  ___________________________________________________________
- /                                                           \
-|  [root@marcos-sec-node ~]# status_check                     |
-|                                                             |
-|  > OS          : Linux x86_64                               |
-|  > Role        : Back-end Dev & SecOps Specialist           |
-|  > Systems     : ONLINE [100% Uptime]                       |
-|  > Security    : ENCRYPTED & PROTECTED                      |
-|  > Firewalls   : ACTIVE (Fortinet Rule Set)                 |
-|  > Status      : Ready for new deployments & challenges!    |
- \___________________________________________________________/
-       \
-        \   🖥️  [SERVER_NODE_01: ACTIVE]
+```json
+{
+  "candidate": "Marcos Firmino Rodrigues",
+  "position": "Desenvolvedor Back-end & SecOps",
+  "hard_skills": ["Python / Django", "Java", "C#", "Node.js", "APIs RESTful", "Segurança Fortinet & M365"],
+  "soft_skills": ["Resolução de Problemas", "Autodidata", "Trabalho em Equipe", "Comunicação Técnica"],
+  "availability": "Aberto a novas oportunidades e desafios técnicos",
+  "location": "São Paulo, Brasil (Remoto / Híbrido)"
+}
