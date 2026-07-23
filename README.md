@@ -139,11 +139,13 @@ Curto prazo: minha primeira oportunidade efetiva em **Desenvolvimento Back-end**
 </div>
 
 <details>
-<summary><sub>🐍 Ativar Contribution Snake (configuração opcional)</sub></summary>
+<summary>🐍 <b>Contribution Snake</b></summary>
 
-<br/>
+<br>
 
-Crie <code>.github/workflows/snake.yml</code> no repositório <code>marcos22-s/marcos22-s</code>:
+<p align="center">
+Ative a animação da cobrinha das suas contribuições do GitHub.
+</p>
 
 ```yaml
 name: Generate Snake
