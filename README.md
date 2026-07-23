@@ -140,43 +140,32 @@ Curto prazo: minha primeira oportunidade efetiva em **Desenvolvimento Back-end**
 
 <details>
 <summary><sub>🐍 Ativar Contribution Snake (configuração opcional)</sub></summary>
+
 <br/>
 
 Crie <code>.github/workflows/snake.yml</code> no repositório <code>marcos22-s/marcos22-s</code>:
 
 ```yaml
 name: Generate Snake
+
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: marcos22-s
           outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - uses: crazy-max/ghaction-github-pages@v4
-        with: {target_branch: output, build_dir: dist}
-        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
-```
-</details>
-
-<br/>
-
-<div align="center">
-
-## 🤝 Vamos Construir Algo Juntos
-
-Aberto a oportunidades de estágio e efetivação em **Desenvolvimento Back-end**.
-
-<a href="https://linkedin.com/in/marcos-rodrigues-14391426b/"><img src="https://img.shields.io/badge/Conversar%20no%20LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<sub><a href="mailto:marcosrodrigues.code@gmail.com">marcosrodrigues.code@gmail.com</a></sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:7C3AED&height=100&section=footer" width="100%"/>
-
-</div>
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
