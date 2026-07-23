@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:38BDF8&height=200&section=header&text=Marcos%20Firmino%20Rodrigues&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%7C%20Building%20Secure%20Software&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<br>
-
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+em+Forma%C3%A7%C3%A3o;Python+%E2%80%A2+Django+%E2%80%A2+Java+%E2%80%A2+APIs+REST;Rumo+%C3%A0+Especializa%C3%A7%C3%A3o+em+Ciberseguran%C3%A7a" alt="Typing SVG"/>
 
 <br><br>
@@ -24,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=marcos22-s&label=Profile%20Views&color=7C3AED&style=flat-square"/>
 
