@@ -80,11 +80,11 @@ Especialização em Cybersecurity
 | 2026 | Certificações Cisco & Fortinet em Cibersegurança | ✅ Concluído |
 | 2026 | Certificação **Microsoft AZ-900** (Azure Fundamentals) | 🔄 Em estudo |
 | 2026 | Primeiro Lab/CTF prático (TryHackMe ou HackTheBox) | 🔜 Planejado |
-| `[ano previsto]` | Conclusão da graduação — FATEC Araras | 🔄 Em andamento |
-| `[ano previsto]` | Primeira oportunidade efetiva em Backend Development | 🎯 Objetivo |
-| `[ano previsto]` | Certificação de nível intermediário em Cybersecurity | 🎯 Objetivo |
+| `2027` | Conclusão da graduação — FATEC Araras | 🔄 Em andamento |
+| `2027` | Primeira oportunidade efetiva em Backend Development | 🎯 Objetivo |
+| `2027` | Certificação de nível intermediário em Cybersecurity | 🎯 Objetivo |
 
-> 💡 Preencha `[ano previsto]` com suas estimativas reais — deixei em aberto para não inventar prazos que só você conhece.
+> 💡 Preencha `2028` com suas estimativas reais — deixei em aberto para não inventar prazos que só você conhece.
 
 ## 📚 Atualmente Estudando
 
