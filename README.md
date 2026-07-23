@@ -4,9 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+em+Forma%C3%A7%C3%A3o;Python+%E2%80%A2+Django+%E2%80%A2+Java+%E2%80%A2+APIs+REST;Rumo+%C3%A0+Especializa%C3%A7%C3%A3o+em+Ciberseguran%C3%A7a" alt="Typing SVG" />
 
-<sub>
-<a href="https://github.com/marcos22-s">GitHub</a> · <a href="https://linkedin.com/in/marcos-rodrigues-14391426b/">LinkedIn</a> · <img src="https://komarev.com/ghpvc/?username=marcos22-s&color=7C3AED&style=flat-square&label=views"/>
-</sub>
+<sub><a href="https://github.com/marcos22-s">GitHub</a> · <a href="https://linkedin.com/in/marcos-rodrigues-14391426b/">LinkedIn</a></sub>
 
 </div>
 
@@ -14,14 +12,12 @@
 
 ## 👋 Quem Sou
 
-Desenvolvedor **Back-end em formação**, cursando Desenvolvimento de Software Multiplataforma na **FATEC Araras**
-e técnico em Desenvolvimento de Sistemas pela **ETEC Deputado Salim Sedeh**. Baseado em Leme, São Paulo.
-
-Construo sistemas de ponta a ponta — da lógica de negócio no back-end à segurança da infraestrutura que a sustenta.
+Desenvolvedor **Back-end em formação**, cursando Desenvolvimento de Software Multiplataforma na **FATEC Araras** e técnico em Desenvolvimento de Sistemas pela **ETEC Deputado Salim Sedeh**, baseado em Leme, São Paulo. Construo sistemas de ponta a ponta — da lógica de negócio no back-end à segurança da infraestrutura que a sustenta.
 
 ## 💼 O Que Faço
 
 **Estagiário de Suporte Técnico de TI** — Labstar Tecnologia · *2026, atualmente*
+
 Atendimento técnico, infraestrutura de redes e segurança preventiva — a ponte entre meu interesse em Cibersegurança e o dia a dia real de TI.
 
 ## 🧭 Minha Jornada
@@ -42,16 +38,16 @@ Certificação **Microsoft AZ-900** (Azure Fundamentals) e meus primeiros labs p
 ## 🧰 O Que Construo
 
 **Backend**
-<img src="https://skillicons.dev/icons?i=python,django,java,nodejs,php,cs" height="32"/>
+<img src="https://skillicons.dev/icons?i=python,django,java,nodejs,php,cs" height="28"/>
 
 **Frontend**
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" height="32"/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" height="28"/>
 
 **Banco de Dados**
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="32"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="28"/>
 
 **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux" height="32"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux" height="28"/>
 
 **Cybersecurity**
 `TCP/IP` `Firewall` `SIEM` `MITRE ATT&CK` `Threat Intelligence`
@@ -68,11 +64,11 @@ Certificação **Microsoft AZ-900** (Azure Fundamentals) e meus primeiros labs p
 
 Centraliza estoque, cadastros e relatórios que antes eram controlados manualmente — controle de estoque básico e cadastro de funcionários, usuários e produtos.
 
-<img src="https://skillicons.dev/icons?i=python,django,mongodb" height="28"/>
+<img src="https://skillicons.dev/icons?i=python,django,mongodb" height="26"/>
 
 Entregue como Projeto Integrador, apresentado e validado em banca acadêmica na FATEC Araras.
 
-**[→ Ver no GitHub](https://github.com/orgs/Constrular-Material-de-Construcao/projects/2/views/1)**
+[![Ver Código](https://img.shields.io/badge/Ver%20Código-1e293b?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/Constrular-Material-de-Construcao/projects/2/views/1)
 
 <br/>
 
@@ -83,11 +79,11 @@ Entregue como Projeto Integrador, apresentado e validado em banca acadêmica na 
 
 Organiza agendamentos e prontuários de animais, antes controlados manualmente — cadastro de clientes e animais, agendamento de banho e tosa.
 
-<img src="https://skillicons.dev/icons?i=php,mysql" height="28"/>
+<img src="https://skillicons.dev/icons?i=php,mysql" height="26"/>
 
 Projeto de conclusão validado academicamente, com modelagem relacional completa.
 
-**[→ Ver no GitHub](https://github.com/marcos22-s/PI-2--Semestre-2025)**
+[![Ver Código](https://img.shields.io/badge/Ver%20Código-1e293b?style=flat-square&logo=github&logoColor=white)](https://github.com/marcos22-s/PI-2--Semestre-2025)
 
 <br/>
 
@@ -111,19 +107,7 @@ Projeto de conclusão validado academicamente, com modelagem relacional completa
 
 ## 🎯 Meu Objetivo
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#7C3AED','primaryTextColor':'#ffffff','primaryBorderColor':'#38BDF8','lineColor':'#38BDF8','fontFamily':'JetBrains Mono'}}}%%
-flowchart LR
-    A["✅ Certificações"] --> B["🔄 AZ-900"]
-    B --> C["🔜 Primeiro CTF/Lab"]
-    C --> D["🎓 Graduação FATEC"]
-    D --> E["💻 Vaga Backend"]
-    E --> F["🛡️ Especialização Cyber"]
-```
-
 Curto prazo: minha primeira oportunidade efetiva em **Desenvolvimento Back-end**. Médio prazo: uma atuação híbrida entre Backend Development e Cybersecurity.
-
-<sub>🌱 Ainda sem contribuições open source públicas — aberto a começar, com interesse em ferramentas back-end em Python/Django.</sub>
 
 ## 📊 GitHub Stats
 
@@ -163,8 +147,9 @@ jobs:
 
 <div align="center">
 
-### 🤝 Vamos Construir Algo Juntos
+## 🤝 Vamos Construir Algo Juntos
 
+Aberto a oportunidades de estágio e efetivação em **Desenvolvimento Back-end**.
 
 <a href="https://linkedin.com/in/marcos-rodrigues-14391426b/"><img src="https://img.shields.io/badge/Conversar%20no%20LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
